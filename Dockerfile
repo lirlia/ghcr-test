@@ -1,2 +1,2 @@
-FROM gcr.io/distroless/base-debian12:latest
+FROM alpine:3.14
 CMD ["echo", "version 1.3.0"]
