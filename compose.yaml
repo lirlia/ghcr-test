@@ -1,0 +1,4 @@
+services:
+  app:
+    container_name: app
+    image: ghcr.io/lirlia/ghcr-test:latest
