@@ -1,2 +1,2 @@
 FROM scratch
-CMD ["echo", "version 1"]
+CMD ["echo", "version 1.1"]
