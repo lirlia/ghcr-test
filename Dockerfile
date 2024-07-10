@@ -1,2 +1,2 @@
-FROM scratch
-CMD ["echo", "version 1.2.0"]
+FROM gcr.io/distroless/base-debian12:latest
+CMD ["echo", "version 1.3.0"]
